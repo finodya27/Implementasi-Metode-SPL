@@ -1,0 +1,1 @@
+Repository ini berisi implementasi dalam bahasa pemrograman Python dari tiga metode Sistem Persamaan Linear (SPL) yang sering digunakan dalam kalkulasi numerik, yaitu Metode Matriks Balikan, Metode Dekomposisi LU (Dengan Metode Gauss atau Metode Crout). Implementasi ini dibuat dalam rangka menyelesaikan tugas dari mata kuliah Metode Numerik.
